@@ -1,4 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+这是我第一次使用Terrier搜索引擎，使用手法可能很粗糙，如果你有好的建议，请告诉我，谢谢！！
